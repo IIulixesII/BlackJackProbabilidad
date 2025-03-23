@@ -1,4 +1,4 @@
-# Juego de Blackjack con Python
+# Estrategia de Blackjack con Python
 
 En el Blackjack, la casa siempre cuenta con una ventaja del 70% contra un jugador amateur, pero contra un profesional la casa solo tiene un 51% de probabilidades de ganar. Este número cambia por el conocimiento de las probabilidades que tienen las cartas.
 

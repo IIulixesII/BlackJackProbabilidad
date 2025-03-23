@@ -12,7 +12,7 @@ Este sistema de Python analiza la mejor probabilidad posible y te permite simula
 - **Decisiones automatizadas**: Basado en las cartas y la carta del crupier, el programa te sugerirá qué hacer: "Hit", "Planta", "Doble", "Dividir", etc.
 - **Interfaz gráfica**: Usa Tkinter para mostrar la interfaz con las entradas de las cartas y el crupier, y mostrar el resultado de la jugada.
 - 
-## estrategia Seleccionada
+## Estrategia Seleccionada
 ![image](https://github.com/user-attachments/assets/fdd9aaa3-6e95-433c-813a-b9c0c5febcb2)
 
 
